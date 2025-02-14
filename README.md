@@ -40,7 +40,7 @@ node image-separator.js <inputPath> <outputDir> <minPixels>
 
 Example:
 ```bash
-node image-separator.js ./input/sprites.png ./output
+node image-separator.js ./input/manga.jpg ./output
 ```
 
 ### Programmatic Usage
